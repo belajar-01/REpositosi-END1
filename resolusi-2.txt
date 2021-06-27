@@ -1,3 +1,4 @@
 resolusi-2.txt
 -dapat mengelola file
 -memahammi tentang git
+membuat file baru
