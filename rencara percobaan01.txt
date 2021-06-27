@@ -1,0 +1,5 @@
+rencara percobaan01
+-belajar membuat repositori
+-mebuat file float
+latihan flex
+-edit file
