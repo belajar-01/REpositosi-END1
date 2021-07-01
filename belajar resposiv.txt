@@ -1,0 +1,3 @@
+rencana belajar responsiv
+-membuat dengan menggunakan flex
+-membuat float
