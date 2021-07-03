@@ -1,0 +1,5 @@
+buatfle java.txt
+  -belajar for
+  -belajar if
+  
+  -belajar while
