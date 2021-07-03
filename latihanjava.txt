@@ -1,0 +1,4 @@
+latihanjava.txt
+-belajarfor
+-latihan if
+latihan while
