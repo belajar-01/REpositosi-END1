@@ -3,3 +3,4 @@ latihanjava.txt
 -latihan if
 latihan while
 lathan for
+latihan objek
